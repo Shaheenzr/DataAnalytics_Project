@@ -1,2 +1,2 @@
 # Python_Project
-Programs which i practiced while taking the course in University
+Projects in which I worked with my fellow classmates as a team in University
